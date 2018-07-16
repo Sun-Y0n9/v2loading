@@ -1,5 +1,5 @@
 {
-  "name": "vloading",
+  "name": "v2loading",
   "version": "1.0.0",
   "description": "a loading plugin for vue2.x",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sun-Y0n9/vloading.git"
+    "url": "git+https://github.com/Sun-Y0n9/v2loading.git"
   },
   "keywords": [
     "loading",
@@ -17,7 +17,7 @@
   "author": "Sun Y0n9",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sun-Y0n9/vloading/issues"
+    "url": "https://github.com/Sun-Y0n9/v2loading/issues"
   },
-  "homepage": "https://github.com/Sun-Y0n9/vloading#readme"
+  "homepage": "https://github.com/Sun-Y0n9/v2loading#readme"
 }
