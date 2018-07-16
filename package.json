@@ -1,0 +1,23 @@
+{
+  "name": "vloading",
+  "version": "1.0.0",
+  "description": "a loading plugin for vue2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sun-Y0n9/vloading.git"
+  },
+  "keywords": [
+    "loading",
+    "vue"
+  ],
+  "author": "Sun Y0n9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sun-Y0n9/vloading/issues"
+  },
+  "homepage": "https://github.com/Sun-Y0n9/vloading#readme"
+}
